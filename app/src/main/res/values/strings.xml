@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TermProject</string>
+
+    <string name="textView">Bon voyage!</string>
+    <string name="textview">Bon voyage!</string>
+    <string name="imageview01">imageview01</string>
+    <string name="imageview02">imageview02</string>
+    <string name="imageview03">imageview03</string>
+    <string name="imageview04">imageview04</string>
+    <string name="textview02">Travel Log</string>
+    <string name="textview03">Statistic</string>
+    <string name="textview04">My Location</string>
+    <string name="textview05">Record</string>
+    <string name="textView05">PieChart</string>
+
+</resources>
